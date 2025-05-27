@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  @apply  bg-black;
+  font-family: "Urbanist";
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+
+
+title {
+  font: x-large;
+}
+
+/* 67a852 */
+
+/* 0a739a */
+
+
